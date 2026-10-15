@@ -35,11 +35,8 @@ I'm also studying cybersecurity and exploring digital forensics, network securit
 
 ## 🚀 Featured Projects
 
-### 🏋️ GymZona
-A gym-management platform under development, planned to support QR-based gym access, membership tracking, workout plans, trainers, packages, and administration panels.
-
-### 🎟️ ZallPass
-A digital-pass and verification application project for mobile devices.
+### 🏋️ ZallPass
+A gym-management platform under development, planned to include QR-based gym access, membership tracking, workout plans, trainer management, packages, and administration panels.
 
 ### 👁️ Eye-Controlled Computer Interface
 An assistive-technology project designed to enable computer interaction through eye movements, including typing and mouse control.
