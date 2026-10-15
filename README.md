@@ -1,89 +1,130 @@
-# Teymur Hesenov
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D0D0D,50:30105E,100:741FFF&text=TEYMUR%20HESENOV&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=COMPUTER%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20CYBERSECURITY&descSize=11&descAlignY=68&animation=fadeIn" width="100%" alt="Teymur Hesenov — Computer Engineering, Software Development and Cybersecurity" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090B,45:241044,100:741FFF&text=Teymur%20Hesenov&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20CYBERSECURITY%20%7C%20ENGINEERING&descSize=11&descAlignY=60&animation=fadeIn" width="100%" alt="Teymur Hesenov" />
 
-<div align="center">
-  <a href="https://github.com/TeymurHesenov">
-    <img src="https://img.shields.io/badge/GitHub-TeymurHesenov-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/teymur-hesenov-579a07234">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:teymurhasanovh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-741FFF?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <p>
+    <a href="https://github.com/TeymurHesenov">
+      <img src="https://img.shields.io/badge/GitHub-TeymurHesenov-181717?style=flat-square&logo=github" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/teymur-hesenov-579a07234">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:teymurhasanovh@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-741FFF?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## About
+## About Me
 
-I am a Computer Engineering student interested in software development, cybersecurity, and systems engineering. I build software projects, experiment with hardware, and develop my technical skills through hands-on practice.
+I’m Teymur Hesenov, a Computer Engineering student and Full-Stack Development course graduate.
 
-My work and learning interests include:
+I design and develop web and mobile applications, build backend services, work with databases, and explore solutions that combine software and hardware.
 
-- **Software Development** — Python, JavaScript, and web technologies.
-- **Cybersecurity** — security fundamentals, network analysis, and digital forensics.
-- **Systems & Platforms** — Linux, macOS, and Windows.
-- **Hardware & Automation** — Arduino, sensors, and embedded-system prototypes.
+My interests extend to cybersecurity, local AI, robotics, and assistive technology. I enjoy approaching technical problems from different angles and turning ideas into practical projects.
 
-I focus on understanding how systems work, building practical solutions, and continuously improving my engineering skills.
+- 🎓 Computer Engineering — Nakhchivan State University
+- 💻 Web and mobile application development
+- 🔐 Cybersecurity and digital forensics
+- 🤖 Arduino, robotics, and hardware projects
+- 🧠 Local AI experimentation with Ollama
 
-## Selected Projects
+## Projects
 
-### KiberLife
-A technology initiative focused on software development, web and mobile solutions, automation, and cybersecurity-related services.
+### GymZona
+A gym-management platform currently in development.
+
+Planned features include QR-based gym access, membership tracking, workout plans, trainer management, and administration panels.
+
+**Focus:** Web and mobile development, backend architecture, and database integration.
 
 ### ZallPass
-A digital-pass and verification application concept intended for iOS and Android.
+A digital-pass and verification application project for mobile devices.
+
+**Focus:** Mobile applications and digital verification.
 
 ### Eye-Controlled Computer Interface
-An assistive-technology project exploring eye movement as an alternative input method for interacting with a computer.
+An assistive-technology project designed to enable computer interaction through eye movements, including keyboard input and mouse control.
+
+**Focus:** Accessibility and alternative computer interaction.
 
 ### Gas Leakage Detection System
-An Arduino-based electronics project designed to detect gas leakage and trigger an alert.
+An Arduino-based system designed to detect gas leakage, trigger an alarm, and send an SMS notification.
+
+**Focus:** Sensors, electronics, and automated alerts.
 
 ### Ultrasonic Radar
-A sensor-based prototype that measures distance across a scanning angle and displays the readings through a visual interface.
+A sensor-based prototype that measures distance across a scanning area and displays the readings visually.
 
-### Cybersecurity Practice Lab
-Hands-on learning involving Hack The Box Sherlocks, log analysis, and digital-forensics exercises.
+**Focus:** Arduino, distance measurement, and data visualization.
 
----
+### Line-Following Robot Car
+A robot car that uses sensor readings to follow a line and adjust its movement.
+
+**Focus:** Robotics, sensors, and control logic.
+
+### Local AI Experiments
+Experiments involving locally running AI models with Ollama.
+
+**Focus:** Local model execution and AI tooling.
 
 ## Technical Skills
 
-| Category | Technologies & Tools |
+| Category | Technologies and Tools |
 |---|---|
-| Programming | Python, C, C++, JavaScript, HTML, CSS |
-| Development | Git, GitHub, VS Code, Xcode, Postman |
-| Systems | Linux, macOS, Windows |
-| Security Learning | Hack The Box, network security fundamentals, log analysis |
-| Hardware | Arduino, Arduino IDE, Wokwi |
-| Design | Figma, Canva |
+| Programming Languages | Python, JavaScript |
+| Web Structure & Styling | HTML, CSS |
+| Frontend Framework | Vue.js |
+| Backend Runtime | Node.js |
+| Mobile Development | Android, iOS, React Native |
+| Database | MySQL |
+| API Development & Testing | Postman |
+| UI/UX Design | Figma |
+| Local AI | Ollama |
+| Hardware & Prototyping | Arduino, Wokwi |
+| Development Tools | VS Code, Xcode, Git, GitHub |
+| Operating Systems | macOS, Linux, Windows |
 
-## GitHub Overview
+## Cybersecurity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TeymurHesenov&show_icons=true&theme=transparent&hide_border=true&title_color=9B5CFF&icon_color=9B5CFF&text_color=C9D1D9" alt="GitHub account statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeymurHesenov&layout=compact&theme=transparent&hide_border=true&title_color=9B5CFF&text_color=C9D1D9" alt="Most used programming languages" />
-</div>
+I’m currently studying cybersecurity and developing practical skills through training and laboratory exercises.
 
----
+Areas of interest include:
+
+- Network security fundamentals
+- Digital forensics and log analysis
+- Security testing in authorized environments
+- Operating system and application security
+- Security investigation and problem-solving
 
 ## Education
 
 **Nakhchivan State University**  
 Computer Engineering
 
+**Full-Stack Development Course**  
+Completed
+
+**Cybersecurity Course**  
+In progress
+
+## GitHub Statistics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TeymurHesenov&show_icons=true&theme=transparent&hide_border=true&title_color=9B5CFF&icon_color=9B5CFF&text_color=C9D1D9" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeymurHesenov&layout=compact&theme=transparent&hide_border=true&title_color=9B5CFF&text_color=C9D1D9" alt="Most used programming languages" />
+</div>
+
+---
+
 ## Contact
 
-- **GitHub:** [github.com/TeymurHesenov](https://github.com/TeymurHesenov)
-- **LinkedIn:** [linkedin.com/in/teymur-hesenov-579a07234](https://linkedin.com/in/teymur-hesenov-579a07234)
+- **GitHub:** [TeymurHesenov](https://github.com/TeymurHesenov)
+- **LinkedIn:** [Teymur Hesenov](https://linkedin.com/in/teymur-hesenov-579a07234)
 - **Email:** [teymurhasanovh@gmail.com](mailto:teymurhasanovh@gmail.com)
 
 <div align="center">
-  <sub>Software · Security · Engineering</sub>
+  <sub>Software Development · Cybersecurity · Engineering</sub>
 </div>
