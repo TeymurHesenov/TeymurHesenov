@@ -1,132 +1,176 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:09090B,45:241044,100:741FFF&text=Teymur%20Hesenov&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20CYBERSECURITY%20%7C%20ENGINEERING&descSize=12&descAlignY=60&animation=fadeIn" width="100%" alt="Teymur Hesenov" />
 
-  <p>
-    <a href="https://github.com/TeymurHesenov">
-      <img src="https://img.shields.io/badge/GitHub-TeymurHesenov-181717?style=for-the-badge&logo=github" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/teymur-hesenov-579a07234">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:teymurhasanovh@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-741FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:07070A,50:171027,100:5422A8&text=TEYMUR%20HESENOV&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=COMPUTER%20ENGINEERING%20%2F%20SOFTWARE%20%2F%20CYBERSECURITY&descSize=12&descAlignY=63&animation=fadeIn" width="100%" alt="Teymur Hesenov — Engineering Portfolio" />
+
+<br/>
+
+**Computer Engineering Student · Software Developer · Technology Enthusiast**
+
+Building practical software, exploring cybersecurity, and engineering solutions that connect software with hardware.
+
+<br/>
+
+<a href="https://github.com/TeymurHesenov">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
+</a>
+<a href="https://linkedin.com/in/teymur-hesenov-579a07234">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:teymurhasanovh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_Touch-741FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 01 / Profile
 
-I'm **Teymur Hesenov**, a Computer Engineering student at **Nakhchivan State University** and a Full-Stack Development course graduate.
+I'm **Teymur Hesenov**, a Computer Engineering student at **Nakhchivan State University** and a graduate of a Full-Stack Development course.
 
-I design and develop web and mobile applications, build backend services, work with databases, and create projects that combine software and hardware.
+My work and learning interests span software development, mobile applications, cybersecurity, digital forensics, robotics, and local AI. I enjoy taking ideas from initial design to working prototypes, combining programming with practical engineering.
 
-I'm also studying cybersecurity and exploring digital forensics, network security, OSINT, local AI, robotics, and assistive technology.
+My current focus is strengthening my development skills, building useful projects, and gaining hands-on experience in cybersecurity through structured learning and authorized lab environments.
 
-- 🎓 Computer Engineering — Nakhchivan State University
-- 💻 Web and mobile application development
-- 🛠️ Backend development and database integration
-- 🔐 Cybersecurity and digital forensics
-- 🤖 Arduino, robotics, and hardware projects
-- 🧠 Local AI experiments using Ollama
-- 🎨 UI/UX design and prototyping with Figma
+| Area | Focus |
+|:--|:--|
+| Software Engineering | Web applications, backend services, databases |
+| Mobile Development | Mobile application concepts and development tools |
+| Cybersecurity | Security fundamentals, HTB labs, digital forensics |
+| Embedded Systems | Arduino, sensors, electronics, prototyping |
+| AI | Local model experimentation with Ollama |
+| UI/UX | Interface design and prototyping with Figma |
 
-## 🚀 Featured Projects
+## 02 / Selected Projects
 
-### 🏋️ ZallPass
-A gym-management platform under development, planned to include QR-based gym access, membership tracking, workout plans, trainer management, packages, and administration panels.
+### ZallPass
+**Gym Management Platform · In Development**
 
-### 👁️ Eye-Controlled Computer Interface
-An assistive-technology project designed to enable computer interaction through eye movements, including typing and mouse control.
+A platform concept for modernizing gym operations and member access.
 
-### 🛡️ Gas Leakage Detection System
-An Arduino-based prototype designed to detect gas leakage, trigger an alarm, and send an SMS notification.
+- QR-based member access concept
+- Membership and subscription tracking
+- Workout plans and trainer management
+- Packages and gym administration workflows
+- Separate administrative roles and interfaces
 
-### 📡 Ultrasonic Radar
-A sensor-based project that measures distances and visualizes nearby objects using ultrasonic readings.
+**Focus:** Product design, frontend development, backend architecture, and system integration.
 
-### 🤖 Line-Following Robot Car
-A robotics project that uses sensors to detect a line and control the movement of a robot car.
+### Eye-Controlled Computer Interface
+**Assistive Technology**
 
-### 🧠 Local AI Experiments
-Experiments with running AI models locally using Ollama.
+A project exploring hands-free computer interaction through eye movement.
 
-### 🔬 University STEAM Projects
-Practical university projects involving engineering, programming, electronics, and prototyping.
+- Eye-based interaction
+- Text input and mouse-control concepts
+- Accessibility-focused user interaction
 
----
+**Focus:** Human-computer interaction and assistive technology.
 
-## 💻 Programming & Development
+### Gas Leakage Detection System
+**Embedded Systems · Arduino**
+
+A prototype designed to detect gas leakage and notify users.
+
+- Sensor-based gas detection
+- Alarm and warning behavior
+- SMS notification concept
+
+**Focus:** Electronics, sensor integration, and hardware-software interaction.
+
+### Ultrasonic Radar
+**Sensors · Distance Measurement**
+
+A sensor-based prototype for measuring distances and visualizing detected objects across a scanning area.
+
+**Focus:** Distance measurement, sensor readings, and visualization.
+
+### Line-Following Robot Car
+**Robotics · Automation**
+
+A small robot car that uses sensor readings to follow a path and control its movement.
+
+**Focus:** Embedded programming, sensors, and basic autonomous behavior.
+
+### Local AI Experiments
+**Local Models · Ollama**
+
+Experiments with running AI models locally and exploring their use in development workflows.
+
+**Focus:** Local inference and practical AI experimentation.
+
+> Project descriptions reflect the intended functionality and current project scope. Features should be marked as completed only when implemented and tested.
+
+## 03 / Technical Stack
+
+### Programming & Web Development
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,vue,nodejs,mysql,postman,react,androidstudio,apple,xcode,figma,git,github,vscode&theme=dark" alt="Programming, web development, mobile development, and design tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,vue,nodejs,mysql,postman&theme=dark" alt="Programming, frontend, backend, database, and API tools" />
+</div>
+
+- **Languages:** Python, JavaScript
+- **Web:** HTML, CSS, Vue.js
+- **Backend:** Node.js
+- **Database:** MySQL
+- **API workflow:** Postman
+
+### Mobile Development & Design
+
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,androidstudio,apple,xcode,figma&theme=dark" alt="Mobile development and design tools" />
+</div>
+
+- **Mobile:** React Native and mobile development environments
+- **Apple development environment:** macOS and Xcode
+- **Interface design:** Figma
+- **Workflow:** Design, implementation, and testing
+
+### Engineering, Systems & AI
+
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,git,github,vscode,apple&theme=dark" alt="Hardware, version control, development environment, and operating system tools" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/macOS-111111?style=flat-square&logo=macos&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Apple_Silicon-000000?style=flat-square&logo=apple&logoColor=white" alt="Apple Silicon" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Wokwi-Circuit_Simulation-6C63FF?style=flat-square" alt="Wokwi" />
+  <img src="https://img.shields.io/badge/Ollama-Local_AI-111111?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-AI_Development-4285F4?style=flat-square" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/macOS-Operating_System-111111?style=flat-square&logo=macos&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Linux-Operating_System-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-Operating_System-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-## 🔐 Cybersecurity & Digital Forensics
+## 04 / Cybersecurity Lab
+
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kalilinux,burpsuite,nmap,wireshark&theme=dark" alt="Cybersecurity and network analysis tools" />
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-2E6E9E?style=for-the-badge&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-333333?style=for-the-badge&logoColor=white" alt="Aircrack-ng" />
-  <img src="https://img.shields.io/badge/Sherlock_OSINT-6A3FC8?style=for-the-badge&logoColor=white" alt="Sherlock OSINT" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-Learning_Labs-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-Wireless_Auditing-333333?style=for-the-badge" alt="Aircrack-ng" />
+  <img src="https://img.shields.io/badge/Sherlock-OSINT-6A3FC8?style=for-the-badge" alt="Sherlock OSINT" />
 </p>
 
-### Areas of Study
+**Current learning areas**
 
-- Network security fundamentals
+- Network security and reconnaissance fundamentals
+- Web application security testing
 - Digital forensics and log analysis
-- OSINT and public-source information research
-- Security testing in authorized lab environments
-- Linux and macOS security fundamentals
-- Web application security
-- Hack The Box practical exercises
+- OSINT and public-source research
+- Linux and macOS fundamentals
+- Hands-on exercises in authorized lab environments
 
-## 🤖 Hardware, Robotics & AI
+**Lab tools:** Kali Linux, Hack The Box, Burp Suite, Nmap, Wireshark, Aircrack-ng, Sherlock OSINT.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Wokwi-Simulation-6C63FF?style=for-the-badge" alt="Wokwi" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Antigravity-AI_Development-4285F4?style=for-the-badge" alt="Antigravity" />
-</p>
+My cybersecurity focus is continuous learning, understanding how systems work, and developing practical investigation and defensive analysis skills.
 
-Areas of interest:
-- Embedded systems and sensor integration
-- Arduino prototyping and circuit simulation
-- Robotics and automation
-- Local AI model experimentation
-- Assistive technology
-
-## 🧰 Tools & Platforms
-
-<div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,figma,postman,apple,xcode,androidstudio,arduino&theme=dark" alt="Development tools and platforms" />
-</div>
-
-- **Development:** Visual Studio Code, Xcode
-- **Design:** Figma
-- **Version control:** Git, GitHub
-- **API testing:** Postman
-- **Mobile:** Android development tools, iOS development environment, React Native
-- **Hardware simulation:** Wokwi
-- **Local AI:** Ollama
-- **Operating systems:** macOS, Linux, Windows
-
-## 🎓 Education
+## 05 / Education
 
 **Nakhchivan State University**  
-Computer Engineering
+Computer Engineering · Current studies
 
 **Full-Stack Development Course**  
 Completed
@@ -134,35 +178,38 @@ Completed
 **Cybersecurity Course**  
 In progress
 
-## 📊 GitHub Statistics
+## 06 / GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TeymurHesenov&show_icons=true&theme=transparent&hide_border=true&title_color=9B5CFF&icon_color=9B5CFF&text_color=C9D1D9" alt="GitHub statistics" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeymurHesenov&layout=compact&theme=transparent&hide_border=true&title_color=9B5CFF&text_color=C9D1D9" alt="Most used programming languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TeymurHesenov&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=9B5CFF&icon_color=9B5CFF&text_color=C9D1D9" alt="GitHub profile statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeymurHesenov&layout=compact&theme=transparent&hide_border=true&title_color=9B5CFF&text_color=C9D1D9" alt="Most used languages on GitHub" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=600&color=9B5CFF&center=true&vCenter=true&width=650&lines=Software+Development;Cybersecurity+%26+Digital+Forensics;Robotics+%26+Embedded+Systems;Local+AI+%26+Engineering" alt="Areas of interest" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=2800&pause=700&color=9B5CFF&center=true&vCenter=true&width=600&lines=Engineering+Ideas+Into+Practical+Solutions;Software+Development+%7C+Cybersecurity;Robotics+%7C+Embedded+Systems+%7C+AI" alt="Engineering focus" />
 </div>
 
----
+## 07 / Contact
 
-## 📫 Contact
-
-<p align="center">
-  <a href="https://github.com/TeymurHesenov">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://linkedin.com/in/teymur-hesenov-579a07234">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:teymurhasanovh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-741FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email address" />
-  </a>
-</p>
+Interested in software development, engineering projects, cybersecurity learning, and practical technology solutions.
 
 <div align="center">
-  <sub>Building practical solutions through software, engineering, and security research.</sub>
+
+<a href="https://github.com/TeymurHesenov">
+  <img src="https://img.shields.io/badge/GitHub-TeymurHesenov-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/teymur-hesenov-579a07234">
+  <img src="https://img.shields.io/badge/LinkedIn-Teymur_Hesenov-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:teymurhasanovh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-741FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=741FFF" width="100%" alt="" />
+
+<sub>COMPUTER ENGINEERING · SOFTWARE DEVELOPMENT · CYBERSECURITY</sub>
+
 </div>
 ```
