@@ -24,7 +24,7 @@
 | :--- | :--- |
 | **Dillər** | `Python`, `C`, `C++`, `JavaScript`, `HTML/CSS` |
 | **Sistemlər & Təhlükəsizlik** | `Linux (Kali/Ubuntu)`, `Network Security`, `Digital Forensics`, `Nmap` |
-| **Alətlər** | `Git`, `GitHub`, `VS Code`, `VirtualBox`, `Terminal` |
+| **Alətlər** | `Git`, `GitHub`, `VS Code`, `VirtualBox`, `Terminal`, 'Antigravity' |
 
 ---
 
