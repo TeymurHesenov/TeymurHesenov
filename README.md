@@ -53,8 +53,7 @@ Experiments involving locally running AI models with Ollama.
 ## Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,vue,nodejs,mysql,postman,react,androidstudio,apple,figma,git,github,vscode,arduino&perline=8&theme=dark" alt="Programming, development, design, and hardware tools" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,vue,nodejs,mysql,postman,react,androidstudio,figma,git,github,vscode,arduino&perline=8&theme=dark" alt="Programming, development, design, and hardware tools" /></div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=500&color=9B5CFF&center=true&vCenter=true&width=650&lines=Web+%26+Mobile+Development;Backend+%26+Database+Technologies;Cybersecurity+%26+Digital+Forensics;Robotics+%26+Local+AI" alt="Areas of interest" />
