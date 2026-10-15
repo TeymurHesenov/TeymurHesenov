@@ -1,71 +1,89 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Teymur%20Hesenov&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-  
-  <h3>Founder @ KiberLife | Computer Engineer | Cyber Security & Software Developer</h3>
-  
-  <p><em>"Fikirdən texnologiyaya."</em></p>
+# Teymur Hesenov
 
-  <p>
-    <img src="https://img.shields.io/badge/University-NDU%20Computer%20Engineering-741FFF?style=flat-square" />
-    <img src="https://img.shields.io/badge/Role-Python%20Teaching%20Assistant-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Focus-Cyber%20Security%20%26%20Full%20Stack-emerald?style=flat-square" />
-  </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D0D0D,50:30105E,100:741FFF&text=TEYMUR%20HESENOV&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=COMPUTER%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20CYBERSECURITY&descSize=11&descAlignY=68&animation=fadeIn" width="100%" alt="Teymur Hesenov — Computer Engineering, Software Development and Cybersecurity" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/TeymurHesenov">
+    <img src="https://img.shields.io/badge/GitHub-TeymurHesenov-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/teymur-hesenov-579a07234">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:teymurhasanovh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-741FFF?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
 
-### 🏢 KiberLife & Startups
+## About
 
-- 🚀 **KiberLife:** Founder & Lead Developer. Veb, mobil tətbiqlər, avtomatlaşdırma, siber təhlükəsizlik və MVP layihələrinin sıfırdan qurulması.
-- 📱 **ZallPass:** iOS və Android üçün hazırlanmış rəqəmsal keçid və doğrulama mobil tətbiqi.
+I am a Computer Engineering student interested in software development, cybersecurity, and systems engineering. I build software projects, experiment with hardware, and develop my technical skills through hands-on practice.
 
----
+My work and learning interests include:
 
-### 🎓 Təcrübə & Təhsil (Experience & Education)
+- **Software Development** — Python, C/C++, JavaScript, and web technologies.
+- **Cybersecurity** — security fundamentals, network analysis, and digital forensics.
+- **Systems & Platforms** — Linux, macOS, and Windows.
+- **Hardware & Automation** — Arduino, sensors, and embedded-system prototypes.
 
-- 🏫 **Naxçıvan Dövlət Universiteti (NDU):** Python proqramlaşdırma dərsləri üzrə Müəllim Köməkçisi (Teaching Assistant).
-- 💻 **Full-Stack Development Course:** Veb arxitekturası, API və verillənlər bazası (Uğurla Bitirilib).
-- 🛡️ **Siber Güvenlik Course:** Şəbəkə təhlükəsizliyi, sızma testləri və zəiflik analizi (Davam Edir).
+I focus on understanding how systems work, building practical solutions, and continuously improving my engineering skills.
 
----
+## Selected Projects
 
-### 🛠️ Öne Çıxan Layihələr (Featured Projects)
+### KiberLife
+A technology initiative focused on software development, web and mobile solutions, automation, and cybersecurity-related services.
 
-- 👁️ **Gözlə İdarə Edilən Kompüter Sistemi:** Əlləri olmayan şəxslər üçün arxa plan tətbiqi vasitəsilə mausu və klaviaturanı yalnız göz hərəkətləri ilə idarə edən sistem.
-- 🚨 **Qaz Sızması Alarm & SMS Sistemi:** Arduino əsaslı qaz sızması təhlükəsizlik, alarm və avtomatik SMS bildiriş aparatı.
-- 📡 **Ultrasonik Radar Sistemi:** 180 dərəcəlik bucaqda məsafə təyini edən və interaktiv interfeysdə göstərən radar.
-- 🧪 **Test Virusları & Forensic Lab:** Siber təhlükəsizlik laboratoriyası, zərərli proqram analizi və Hack The Box (Sherlocks) həlləri.
+### ZallPass
+A digital-pass and verification application concept intended for iOS and Android.
 
----
+### Eye-Controlled Computer Interface
+An assistive-technology project exploring eye movement as an alternative input method for interacting with a computer.
 
-### 💻 Texnologiyalar və Ekosistem (Tech Stack & Tools)
+### Gas Leakage Detection System
+An Arduino-based electronics project designed to detect gas leakage and trigger an alert.
 
-| Kateqoriya | Alətlər / Texnologiyalar |
-| :--- | :--- |
-| **Dillər & Veb** | `Python`, `C`, `C++`, `JavaScript`, `HTML/CSS`, `Full-Stack` |
-| **Tətbiqlər & IDE** | `Antigravity`, `VS Code`, `Xcode`, `Arduino IDE`, `Wokwi`, `SDR++`, `Postman`, `Pinokio` |
-| **Dizayn & UI/UX** | `Figma`, `Canva`, `Prompt Engineering` |
-| **Sistemlər** | `Linux (Kali/Ubuntu/Tails)`, `macOS (Apple Silicon M5)`, `Windows` |
-| **Süni İntellekt (AI)** | `Gemini`, `Claude`, `Qwen`, `OpenAI Codex` |
+### Ultrasonic Radar
+A sensor-based prototype that measures distance across a scanning angle and displays the readings through a visual interface.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeymurHesenov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeymurHesenov&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### Cybersecurity Practice Lab
+Hands-on learning involving Hack The Box Sherlocks, log analysis, and digital-forensics exercises.
 
 ---
 
-### 🌐 Əlaqə (Connect)
+## Technical Skills
 
-- **LinkedIn:** [Teymur Hesenov](https://linkedin.com/in/teymur-hesenov-579a07234)
-- **Email:** teymurhasanovh@gmail.com
-- **GitHub:** [github.com/TeymurHesenov](https://github.com/TeymurHesenov)
+| Category | Technologies & Tools |
+|---|---|
+| Programming | Python, C, C++, JavaScript, HTML, CSS |
+| Development | Git, GitHub, VS Code, Xcode, Postman |
+| Systems | Linux, macOS, Windows |
+| Security Learning | Hack The Box, network security fundamentals, log analysis |
+| Hardware | Arduino, Arduino IDE, Wokwi |
+| Design | Figma, Canva |
+
+## GitHub Overview
 
 <div align="center">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=741FFF&center=true&vCenter=true&width=430&lines=Always+learning.;Always+building.;Always+exploring+technology." />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TeymurHesenov&show_icons=true&theme=transparent&hide_border=true&title_color=9B5CFF&icon_color=9B5CFF&text_color=C9D1D9" alt="GitHub account statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeymurHesenov&layout=compact&theme=transparent&hide_border=true&title_color=9B5CFF&text_color=C9D1D9" alt="Most used programming languages" />
+</div>
+
+---
+
+## Education
+
+**Nakhchivan State University**  
+Computer Engineering
+
+## Contact
+
+- **GitHub:** [github.com/TeymurHesenov](https://github.com/TeymurHesenov)
+- **LinkedIn:** [linkedin.com/in/teymur-hesenov-579a07234](https://linkedin.com/in/teymur-hesenov-579a07234)
+- **Email:** [teymurhasanovh@gmail.com](mailto:teymurhasanovh@gmail.com)
+
+<div align="center">
+  <sub>Software · Security · Engineering</sub>
 </div>
