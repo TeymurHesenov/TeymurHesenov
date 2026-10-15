@@ -24,7 +24,7 @@ I am a Computer Engineering student interested in software development, cybersec
 
 My work and learning interests include:
 
-- **Software Development** — Python, C/C++, JavaScript, and web technologies.
+- **Software Development** — Python, JavaScript, and web technologies.
 - **Cybersecurity** — security fundamentals, network analysis, and digital forensics.
 - **Systems & Platforms** — Linux, macOS, and Windows.
 - **Hardware & Automation** — Arduino, sensors, and embedded-system prototypes.
