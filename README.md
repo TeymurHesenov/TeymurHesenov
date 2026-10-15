@@ -3,15 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090B,45:241044,100:741FFF&text=Teymur%20Hesenov&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20CYBERSECURITY%20%7C%20ENGINEERING&descSize=11&descAlignY=60&animation=fadeIn" width="100%" alt="Teymur Hesenov" />
 
   <p>
-    <a href="https://github.com/TeymurHesenov">
-      <img src="https://img.shields.io/badge/GitHub-TeymurHesenov-181717?style=flat-square&logo=github" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/teymur-hesenov-579a07234">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:teymurhasanovh@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-741FFF?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+    <a href="https://github.com/TeymurHesenov"><img src="https://img.shields.io/badge/GitHub-TeymurHesenov-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/teymur-hesenov-579a07234"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:teymurhasanovh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-741FFF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -23,7 +17,7 @@ I’m Teymur Hesenov, a Computer Engineering student and Full-Stack Development 
 
 I design and develop web and mobile applications, build backend services, work with databases, and explore solutions that combine software and hardware.
 
-My interests extend to cybersecurity, local AI, robotics, and assistive technology. I enjoy approaching technical problems from different angles and turning ideas into practical projects.
+My interests include cybersecurity, local AI, robotics, and assistive technology. I enjoy solving technical problems and turning ideas into practical projects.
 
 - 🎓 Computer Engineering — Nakhchivan State University
 - 💻 Web and mobile application development
@@ -34,81 +28,54 @@ My interests extend to cybersecurity, local AI, robotics, and assistive technolo
 ## Projects
 
 ### GymZona
-A gym-management platform currently in development.
-
-Planned features include QR-based gym access, membership tracking, workout plans, trainer management, and administration panels.
-
-**Focus:** Web and mobile development, backend architecture, and database integration.
+A gym-management platform currently in development, planned to include QR-based gym access, membership tracking, workout plans, trainer management, and administration panels.
 
 ### ZallPass
 A digital-pass and verification application project for mobile devices.
 
-**Focus:** Mobile applications and digital verification.
-
 ### Eye-Controlled Computer Interface
-An assistive-technology project designed to enable computer interaction through eye movements, including keyboard input and mouse control.
-
-**Focus:** Accessibility and alternative computer interaction.
+An assistive-technology project designed to let users type and control a mouse through eye movements.
 
 ### Gas Leakage Detection System
 An Arduino-based system designed to detect gas leakage, trigger an alarm, and send an SMS notification.
 
-**Focus:** Sensors, electronics, and automated alerts.
-
 ### Ultrasonic Radar
-A sensor-based prototype that measures distance across a scanning area and displays the readings visually.
-
-**Focus:** Arduino, distance measurement, and data visualization.
+A sensor-based prototype that measures distance across a scanning area and displays readings visually.
 
 ### Line-Following Robot Car
-A robot car that uses sensor readings to follow a line and adjust its movement.
-
-**Focus:** Robotics, sensors, and control logic.
+A robot car that uses sensor readings to follow a line and control its movement.
 
 ### Local AI Experiments
 Experiments involving locally running AI models with Ollama.
 
-**Focus:** Local model execution and AI tooling.
+---
 
-## Technical Skills
+## Technologies & Tools
 
-| Category | Technologies and Tools |
-|---|---|
-| Programming Languages | Python, JavaScript |
-| Web Structure & Styling | HTML, CSS |
-| Frontend Framework | Vue.js |
-| Backend Runtime | Node.js |
-| Mobile Development | Android, iOS, React Native |
-| Database | MySQL |
-| API Development & Testing | Postman |
-| UI/UX Design | Figma |
-| Local AI | Ollama |
-| Hardware & Prototyping | Arduino, Wokwi |
-| Development Tools | VS Code, Xcode, Git, GitHub |
-| Operating Systems | macOS, Linux, Windows |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,vue,nodejs,mysql,postman,react,androidstudio,apple,figma,git,github,vscode,arduino&perline=8&theme=dark" alt="Programming, development, design, and hardware tools" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=500&color=9B5CFF&center=true&vCenter=true&width=650&lines=Web+%26+Mobile+Development;Backend+%26+Database+Technologies;Cybersecurity+%26+Digital+Forensics;Robotics+%26+Local+AI" alt="Areas of interest" />
+</div>
 
 ## Cybersecurity
 
-I’m currently studying cybersecurity and developing practical skills through training and laboratory exercises.
-
-Areas of interest include:
+I’m currently studying cybersecurity and developing practical skills through coursework and laboratory exercises.
 
 - Network security fundamentals
 - Digital forensics and log analysis
 - Security testing in authorized environments
 - Operating system and application security
-- Security investigation and problem-solving
 
 ## Education
 
-**Nakhchivan State University**  
-Computer Engineering
+**Nakhchivan State University** — Computer Engineering
 
-**Full-Stack Development Course**  
-Completed
+**Full-Stack Development Course** — Completed
 
-**Cybersecurity Course**  
-In progress
+**Cybersecurity Course** — In progress
 
 ## GitHub Statistics
 
